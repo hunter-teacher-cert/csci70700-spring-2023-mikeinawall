@@ -4,6 +4,9 @@ https://demoflaskproject.mikeinawall.repl.co/
 
 *** Routes:
 /about
+
 /lucky
+
 /temp_demo
+
 /homework
