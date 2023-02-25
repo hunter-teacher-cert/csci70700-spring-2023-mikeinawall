@@ -1,4 +1,4 @@
-run = "cowsay Configure me!"
+run = "encryption_non_pke/ceasarCypher.py"
 
 [nix]
 channel = "stable-22_11"
