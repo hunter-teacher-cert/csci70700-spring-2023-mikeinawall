@@ -1,4 +1,4 @@
-run = "encryption_non_pke/ceasarCypher.py"
+run = "databases/LiveCoding.sql"
 
 [nix]
 channel = "stable-22_11"
